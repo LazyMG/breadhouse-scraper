@@ -2,3 +2,7 @@
 __pycache__/
 *.pyc
 *.pyo
+data/
+
+.id_list.txt
+.id_completed_list.txt
